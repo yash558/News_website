@@ -1,0 +1,13 @@
+.login_btn, .signup_btn{
+    text-decoration:none;
+    color:white;
+}
+.login_btn:hover, .signup_btn:hover{
+    
+    color: rgb(248, 82, 248);
+}
+
+li{
+    font-size: 22px;
+    margin-left: 3rem;
+}
